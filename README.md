@@ -1,16 +1,13 @@
-# expression
+# Expression
 
-A new Flutter project.
+A beautiful (**work in progress!**) iOS calculator for just the basics. Built with Flutter.
+
+**Motivation**: I find the iOS Calculator lacking for basic needs and really enjoy the Google Calculator that ships on Android, 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can build it with `flutter run` like most other Flutter apps, however when I feel Expression is ready, I'll release it on [Airport](https://app.airport.community/app/recs0ADItsvb8zRPB) and hopefully the iOS App Store. *You'll most likely want to wait for this.*
 
-A few resources to get you started if this is your first Flutter project:
+## Disclaimer
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+I hope for a usable quality for Expression, however end-of-the-day it's more a [home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/) and less of a professional product.
